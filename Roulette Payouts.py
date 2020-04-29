@@ -1,5 +1,6 @@
 from random import randrange
 num = randrange(-1, 37)
+status = []
 
 if 1 > num > -2:
     if num == 0:
